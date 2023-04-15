@@ -1,6 +1,6 @@
 # OpenAI-Bot
 OpenAI bot 
 
-Pre-Req :
+#Pre-Req :
 
 python-telegram-bot library
